@@ -9,6 +9,9 @@
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="f1_bgc_rnaseq_overview.svg"
+   inkscape:export-filename="C:\Users\chevr\Documents\paper_workspace\thor_secmet\fig\main\f1_bgc_rnaseq_overview.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.5"
-     inkscape:cx="839"
-     inkscape:cy="535"
+     inkscape:zoom="2"
+     inkscape:cx="922.75"
+     inkscape:cy="1352.25"
      inkscape:window-width="1920"
      inkscape:window-height="1111"
      inkscape:window-x="-9"
@@ -4095,16 +4098,16 @@
       <text
          xml:space="preserve"
          style="font-size:6.69002px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';stroke-width:0.278751"
-         x="115.91161"
+         x="116.42283"
          y="-255.32658"
          id="text5615-7-6"><tspan
            sodipodi:role="line"
            id="tspan5613-5-8"
            style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.69002px;font-family:arial;-inkscape-font-specification:arial;stroke-width:0.278751"
-           x="115.91161"
+           x="116.42283"
            y="-255.32658"><tspan
    style="font-style:normal;font-weight:bold;stroke-width:0.278751"
-   id="tspan11810-0">Pairwise with </tspan>Pk.</tspan></text>
+   id="tspan11810-0">Pairwise with </tspan>Pk</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:6.69002px;line-height:1.25;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console';stroke-width:0.278751"
@@ -4870,7 +4873,7 @@
            sodipodi:role="line"
            x="-73.189011"
            y="49.211807"
-           id="tspan5860-5-2">Co-culture</tspan><tspan
+           id="tspan5860-5-2">Coculture</tspan><tspan
            style="font-weight:bold;font-size:6.43917px;line-height:4.34094px;text-align:center;text-anchor:middle;stroke-width:0.434094"
            sodipodi:role="line"
            x="-73.189011"
@@ -4912,7 +4915,7 @@
            sodipodi:role="line"
            x="50.131439"
            y="49.211807"
-           id="tspan5860-5-2-2">Co-culture</tspan><tspan
+           id="tspan5860-5-2-2">Coculture</tspan><tspan
            style="font-weight:bold;font-size:6.43917px;line-height:4.34094px;text-align:center;text-anchor:middle;stroke-width:0.434094"
            sodipodi:role="line"
            x="50.131439"
@@ -5499,7 +5502,7 @@
            sodipodi:role="line"
            x="172.33186"
            y="49.211807"
-           id="tspan5860-5-2-7">Co-culture</tspan><tspan
+           id="tspan5860-5-2-7">Coculture</tspan><tspan
            style="font-weight:bold;font-size:6.43917px;line-height:4.34094px;text-align:center;text-anchor:middle;stroke-width:0.434094"
            sodipodi:role="line"
            x="172.33186"
