@@ -1,0 +1,301 @@
+bgc	BGC of	coculture	LFC
+Bc_Ga0417192_01_rn01	Bcer	Pairwise with Fjoh	-0.371990411
+Bc_Ga0417192_01_rn02	Bcer	Pairwise with Fjoh	-0.042866983
+Bc_Ga0417192_01_rn03	Bcer	Pairwise with Fjoh	0.355372632
+Bc_Ga0417192_01_rn04	Bcer	Pairwise with Fjoh	-0.07374921
+Bc_Ga0417192_01_rn05	Bcer	Pairwise with Fjoh	0.227359722
+Bc_Ga0417192_01_rn06	Bcer	Pairwise with Fjoh	0.204714972
+Bc_Ga0417192_01_rn07	Bcer	Pairwise with Fjoh	0.087617055
+Bc_Ga0417192_01_rn08	Bcer	Pairwise with Fjoh	0.218873147
+Bc_Ga0417192_01_rn09	Bcer	Pairwise with Fjoh	-0.458787923
+Bc_Ga0417192_01_rn10	Bcer	Pairwise with Fjoh	0.081161058
+Bc_Ga0417192_01_rn11	Bcer	Pairwise with Fjoh	0.224831756
+Bc_Ga0417192_01_rn12	Bcer	Pairwise with Fjoh	0.018213534
+Bc_Ga0417192_01_rn13	Bcer	Pairwise with Fjoh	0.310907671
+Bc_Ga0417192_01_rn14	Bcer	Pairwise with Fjoh	0.009249904
+Bc_Ga0417192_01_rn15	Bcer	Pairwise with Fjoh	0.218412082
+Bc_Ga0417192_01_rn16	Bcer	Pairwise with Fjoh	0.210275708
+Bc_Ga0417192_01_rn17	Bcer	Pairwise with Fjoh	-0.203199447
+Bc_Ga0417192_01_rn18	Bcer	Pairwise with Fjoh	-0.022503793
+Bc_Ga0417192_01_rn19	Bcer	Pairwise with Fjoh	0.024835739
+Bc_Ga0417192_01_rn20	Bcer	Pairwise with Fjoh	0.100826346
+Bc_Ga0417192_01_rn21	Bcer	Pairwise with Fjoh	0.29688092
+Bc_Ga0417192_01_rn22	Bcer	Pairwise with Fjoh	0.066268459
+Bc_Ga0417192_01_rn23	Bcer	Pairwise with Fjoh	-0.040247636
+Bc_Ga0417192_01_rn24	Bcer	Pairwise with Fjoh	-0.155848932
+Bc_Ga0417192_01_rn25	Bcer	Pairwise with Fjoh	0.009141987
+Bc_Ga0417192_01_rn26	Bcer	Pairwise with Fjoh	-0.015889265
+Bc_Ga0417192_01_rn27	Bcer	Pairwise with Fjoh	0.188562145
+Bc_Ga0417192_01_rn28	Bcer	Pairwise with Fjoh	-0.063652472
+Bc_Ga0417192_01_rn29	Bcer	Pairwise with Fjoh	0.024258747
+Bc_Ga0417192_01_rn30	Bcer	Pairwise with Fjoh	0.178257668
+Bc_Ga0417192_01_rn31	Bcer	Pairwise with Fjoh	0.146083402
+Bc_Ga0417192_01_rn32	Bcer	Pairwise with Fjoh	-0.174106928
+Bc_Ga0417192_01_rn33	Bcer	Pairwise with Fjoh	0.003270856
+Bc_Ga0417192_01_rn34	Bcer	Pairwise with Fjoh	-0.145473534
+Bc_Ga0417192_01_rn35	Bcer	Pairwise with Fjoh	-0.215588006
+Bc_Ga0417192_01_rn36	Bcer	Pairwise with Fjoh	-0.173012591
+Bc_Ga0417192_01_rn37	Bcer	Pairwise with Fjoh	-0.107642376
+Bc_Ga0417192_01_rn38	Bcer	Pairwise with Fjoh	-0.255114397
+Bc_Ga0417192_02_rn01	Bcer	Pairwise with Fjoh	-0.084472565
+Bc_Ga0417192_02_rn02	Bcer	Pairwise with Fjoh	-0.153389403
+Bc_Ga0417192_02_rn03	Bcer	Pairwise with Fjoh	-0.088003167
+Bc_Ga0417192_02_rn04	Bcer	Pairwise with Fjoh	-0.109253784
+Bc_Ga0417192_03_rn01	Bcer	Pairwise with Fjoh	-0.136185685
+Bc_Ga0417192_03_rn02	Bcer	Pairwise with Fjoh	-0.003270856
+Bc_Ga0417192_01_rn01	Bcer	Pairwise with Pkor	-0.352316707
+Bc_Ga0417192_01_rn02	Bcer	Pairwise with Pkor	1.757028208
+Bc_Ga0417192_01_rn03	Bcer	Pairwise with Pkor	1.505082474
+Bc_Ga0417192_01_rn04	Bcer	Pairwise with Pkor	0.167062093
+Bc_Ga0417192_01_rn05	Bcer	Pairwise with Pkor	1.608156
+Bc_Ga0417192_01_rn06	Bcer	Pairwise with Pkor	-0.1992197
+Bc_Ga0417192_01_rn07	Bcer	Pairwise with Pkor	2.636248494
+Bc_Ga0417192_01_rn08	Bcer	Pairwise with Pkor	-0.093470278
+Bc_Ga0417192_01_rn09	Bcer	Pairwise with Pkor	-0.401023761
+Bc_Ga0417192_01_rn10	Bcer	Pairwise with Pkor	0.379371046
+Bc_Ga0417192_01_rn11	Bcer	Pairwise with Pkor	-0.739756593
+Bc_Ga0417192_01_rn12	Bcer	Pairwise with Pkor	-0.155296596
+Bc_Ga0417192_01_rn13	Bcer	Pairwise with Pkor	-1.260291495
+Bc_Ga0417192_01_rn14	Bcer	Pairwise with Pkor	0.487856183
+Bc_Ga0417192_01_rn15	Bcer	Pairwise with Pkor	-0.872943501
+Bc_Ga0417192_01_rn16	Bcer	Pairwise with Pkor	0.593490877
+Bc_Ga0417192_01_rn17	Bcer	Pairwise with Pkor	-0.755879822
+Bc_Ga0417192_01_rn18	Bcer	Pairwise with Pkor	-0.001232446
+Bc_Ga0417192_01_rn19	Bcer	Pairwise with Pkor	1.138497745
+Bc_Ga0417192_01_rn20	Bcer	Pairwise with Pkor	-0.332208853
+Bc_Ga0417192_01_rn21	Bcer	Pairwise with Pkor	0.779030476
+Bc_Ga0417192_01_rn22	Bcer	Pairwise with Pkor	-2.81906315
+Bc_Ga0417192_01_rn23	Bcer	Pairwise with Pkor	-0.26759166
+Bc_Ga0417192_01_rn24	Bcer	Pairwise with Pkor	0.562961763
+Bc_Ga0417192_01_rn25	Bcer	Pairwise with Pkor	0.049341885
+Bc_Ga0417192_01_rn26	Bcer	Pairwise with Pkor	0.60979156
+Bc_Ga0417192_01_rn27	Bcer	Pairwise with Pkor	0.045169495
+Bc_Ga0417192_01_rn28	Bcer	Pairwise with Pkor	-0.388147234
+Bc_Ga0417192_01_rn29	Bcer	Pairwise with Pkor	0.001232446
+Bc_Ga0417192_01_rn30	Bcer	Pairwise with Pkor	0.313891715
+Bc_Ga0417192_01_rn31	Bcer	Pairwise with Pkor	-0.269966359
+Bc_Ga0417192_01_rn32	Bcer	Pairwise with Pkor	-2.028115141
+Bc_Ga0417192_01_rn33	Bcer	Pairwise with Pkor	-0.29244179
+Bc_Ga0417192_01_rn34	Bcer	Pairwise with Pkor	0.719224662
+Bc_Ga0417192_01_rn35	Bcer	Pairwise with Pkor	-0.415426256
+Bc_Ga0417192_01_rn36	Bcer	Pairwise with Pkor	0.6299479
+Bc_Ga0417192_01_rn37	Bcer	Pairwise with Pkor	-0.420818619
+Bc_Ga0417192_01_rn38	Bcer	Pairwise with Pkor	-1.212153666
+Bc_Ga0417192_02_rn01	Bcer	Pairwise with Pkor	0.740324901
+Bc_Ga0417192_02_rn02	Bcer	Pairwise with Pkor	0.235681414
+Bc_Ga0417192_02_rn03	Bcer	Pairwise with Pkor	0.882132752
+Bc_Ga0417192_02_rn04	Bcer	Pairwise with Pkor	-0.780284088
+Bc_Ga0417192_03_rn01	Bcer	Pairwise with Pkor	1.281161066
+Bc_Ga0417192_03_rn02	Bcer	Pairwise with Pkor	-0.615075176
+Bc_Ga0417192_01_rn01	Bcer	Three-member	-0.185646868
+Bc_Ga0417192_01_rn02	Bcer	Three-member	1.329858242
+Bc_Ga0417192_01_rn03	Bcer	Three-member	2.310556774
+Bc_Ga0417192_01_rn04	Bcer	Three-member	0.105662443
+Bc_Ga0417192_01_rn05	Bcer	Three-member	1.884986542
+Bc_Ga0417192_01_rn06	Bcer	Three-member	-0.139674174
+Bc_Ga0417192_01_rn07	Bcer	Three-member	2.490623776
+Bc_Ga0417192_01_rn08	Bcer	Three-member	-0.080605489
+Bc_Ga0417192_01_rn09	Bcer	Three-member	-0.462489974
+Bc_Ga0417192_01_rn10	Bcer	Three-member	0.365733515
+Bc_Ga0417192_01_rn11	Bcer	Three-member	-0.547297794
+Bc_Ga0417192_01_rn12	Bcer	Three-member	-0.22055964
+Bc_Ga0417192_01_rn13	Bcer	Three-member	-1.232102439
+Bc_Ga0417192_01_rn14	Bcer	Three-member	0.214829148
+Bc_Ga0417192_01_rn15	Bcer	Three-member	-0.545133215
+Bc_Ga0417192_01_rn16	Bcer	Three-member	0.668338534
+Bc_Ga0417192_01_rn17	Bcer	Three-member	-0.744797627
+Bc_Ga0417192_01_rn18	Bcer	Three-member	0.051283398
+Bc_Ga0417192_01_rn19	Bcer	Three-member	1.054344315
+Bc_Ga0417192_01_rn20	Bcer	Three-member	-0.345227709
+Bc_Ga0417192_01_rn21	Bcer	Three-member	0.644743989
+Bc_Ga0417192_01_rn22	Bcer	Three-member	-2.52519936
+Bc_Ga0417192_01_rn23	Bcer	Three-member	-0.277155455
+Bc_Ga0417192_01_rn24	Bcer	Three-member	0.38614878
+Bc_Ga0417192_01_rn25	Bcer	Three-member	-0.027143379
+Bc_Ga0417192_01_rn26	Bcer	Three-member	0.627610288
+Bc_Ga0417192_01_rn27	Bcer	Three-member	-0.03792605
+Bc_Ga0417192_01_rn28	Bcer	Three-member	-0.232236794
+Bc_Ga0417192_01_rn29	Bcer	Three-member	0.027143379
+Bc_Ga0417192_01_rn30	Bcer	Three-member	0.21241461
+Bc_Ga0417192_01_rn31	Bcer	Three-member	1.216643596
+Bc_Ga0417192_01_rn32	Bcer	Three-member	-1.448408778
+Bc_Ga0417192_01_rn33	Bcer	Three-member	-0.171886634
+Bc_Ga0417192_01_rn34	Bcer	Three-member	0.977993866
+Bc_Ga0417192_01_rn35	Bcer	Three-member	-0.12567646
+Bc_Ga0417192_01_rn36	Bcer	Three-member	0.961364922
+Bc_Ga0417192_01_rn37	Bcer	Three-member	-0.31408404
+Bc_Ga0417192_01_rn38	Bcer	Three-member	-1.043163151
+Bc_Ga0417192_02_rn01	Bcer	Three-member	0.420053513
+Bc_Ga0417192_02_rn02	Bcer	Three-member	0.313172618
+Bc_Ga0417192_02_rn03	Bcer	Three-member	1.079694088
+Bc_Ga0417192_02_rn04	Bcer	Three-member	-0.618572992
+Bc_Ga0417192_03_rn01	Bcer	Three-member	1.298840946
+Bc_Ga0417192_03_rn02	Bcer	Three-member	-0.370642372
+Fj_NC_009441.1_rn01	Fjoh	Pairwise with Bcer	0.33587096
+Fj_NC_009441.1_rn02	Fjoh	Pairwise with Bcer	0.291332374
+Fj_NC_009441.1_rn03	Fjoh	Pairwise with Bcer	-0.161358569
+Fj_NC_009441.1_rn04	Fjoh	Pairwise with Bcer	-0.255111738
+Fj_NC_009441.1_rn05	Fjoh	Pairwise with Bcer	0.21479874
+Fj_NC_009441.1_rn06	Fjoh	Pairwise with Bcer	0.071863704
+Fj_NC_009441.1_rn07	Fjoh	Pairwise with Bcer	-0.306209949
+Fj_NC_009441.1_rn08	Fjoh	Pairwise with Bcer	0.83491672
+Fj_NC_009441.1_rn09	Fjoh	Pairwise with Bcer	-0.652638847
+Fj_NC_009441.1_rn10	Fjoh	Pairwise with Bcer	1.851171521
+Fj_NC_009441.1_rn11	Fjoh	Pairwise with Bcer	-0.343877128
+Fj_NC_009441.1_rn12	Fjoh	Pairwise with Bcer	-0.742728345
+Fj_NC_009441.1_rn13	Fjoh	Pairwise with Bcer	0.350309002
+Fj_NC_009441.1_rn14	Fjoh	Pairwise with Bcer	2.207480584
+Fj_NC_009441.1_rn15	Fjoh	Pairwise with Bcer	-1.908860079
+Fj_NC_009441.1_rn16	Fjoh	Pairwise with Bcer	0.860728645
+Fj_NC_009441.1_rn17	Fjoh	Pairwise with Bcer	0.361097782
+Fj_NC_009441.1_rn18	Fjoh	Pairwise with Bcer	-0.069831601
+Fj_NC_009441.1_rn19	Fjoh	Pairwise with Bcer	0.069831601
+Fj_NC_009441.1_rn20	Fjoh	Pairwise with Bcer	-0.285649912
+Fj_NC_009441.1_rn21	Fjoh	Pairwise with Bcer	-0.340671653
+Fj_NC_009441.1_rn22	Fjoh	Pairwise with Bcer	0.321215612
+Fj_NC_009441.1_rn23	Fjoh	Pairwise with Bcer	0.138079333
+Fj_NC_009441.1_rn24	Fjoh	Pairwise with Bcer	-0.676821337
+Fj_NC_009441.1_rn25	Fjoh	Pairwise with Bcer	-1.103944256
+Fj_NC_009441.1_rn26	Fjoh	Pairwise with Bcer	0.283315583
+Fj_NC_009441.1_rn27	Fjoh	Pairwise with Bcer	-0.22933177
+Fj_NC_009441.1_rn28	Fjoh	Pairwise with Bcer	-0.381144634
+Fj_NC_009441.1_rn01	Fjoh	Pairwise with Pkor	0.385193957
+Fj_NC_009441.1_rn02	Fjoh	Pairwise with Pkor	0.266750964
+Fj_NC_009441.1_rn03	Fjoh	Pairwise with Pkor	-0.042479733
+Fj_NC_009441.1_rn04	Fjoh	Pairwise with Pkor	-1.058309144
+Fj_NC_009441.1_rn05	Fjoh	Pairwise with Pkor	-0.322928314
+Fj_NC_009441.1_rn06	Fjoh	Pairwise with Pkor	-0.184138856
+Fj_NC_009441.1_rn07	Fjoh	Pairwise with Pkor	-1.00833628
+Fj_NC_009441.1_rn08	Fjoh	Pairwise with Pkor	0.300641458
+Fj_NC_009441.1_rn09	Fjoh	Pairwise with Pkor	-2.363058322
+Fj_NC_009441.1_rn10	Fjoh	Pairwise with Pkor	0.323849683
+Fj_NC_009441.1_rn11	Fjoh	Pairwise with Pkor	-0.726627965
+Fj_NC_009441.1_rn12	Fjoh	Pairwise with Pkor	-0.750155817
+Fj_NC_009441.1_rn13	Fjoh	Pairwise with Pkor	-0.085013533
+Fj_NC_009441.1_rn14	Fjoh	Pairwise with Pkor	0.103095993
+Fj_NC_009441.1_rn15	Fjoh	Pairwise with Pkor	1.901960988
+Fj_NC_009441.1_rn16	Fjoh	Pairwise with Pkor	0.635590188
+Fj_NC_009441.1_rn17	Fjoh	Pairwise with Pkor	0.02380964
+Fj_NC_009441.1_rn18	Fjoh	Pairwise with Pkor	1.307339186
+Fj_NC_009441.1_rn19	Fjoh	Pairwise with Pkor	-0.358018936
+Fj_NC_009441.1_rn20	Fjoh	Pairwise with Pkor	-1.117972862
+Fj_NC_009441.1_rn21	Fjoh	Pairwise with Pkor	-1.090067117
+Fj_NC_009441.1_rn22	Fjoh	Pairwise with Pkor	1.04995896
+Fj_NC_009441.1_rn23	Fjoh	Pairwise with Pkor	0.173090367
+Fj_NC_009441.1_rn24	Fjoh	Pairwise with Pkor	-0.02380964
+Fj_NC_009441.1_rn25	Fjoh	Pairwise with Pkor	3.213288795
+Fj_NC_009441.1_rn26	Fjoh	Pairwise with Pkor	0.626956368
+Fj_NC_009441.1_rn27	Fjoh	Pairwise with Pkor	5.457774182
+Fj_NC_009441.1_rn28	Fjoh	Pairwise with Pkor	-0.284825871
+Fj_NC_009441.1_rn01	Fjoh	Three-member	0.3131636
+Fj_NC_009441.1_rn02	Fjoh	Three-member	0.015688455
+Fj_NC_009441.1_rn03	Fjoh	Three-member	-0.406513891
+Fj_NC_009441.1_rn04	Fjoh	Three-member	-0.902547848
+Fj_NC_009441.1_rn05	Fjoh	Three-member	-0.567259101
+Fj_NC_009441.1_rn06	Fjoh	Three-member	-0.447408449
+Fj_NC_009441.1_rn07	Fjoh	Three-member	-0.868982375
+Fj_NC_009441.1_rn08	Fjoh	Three-member	0.462893367
+Fj_NC_009441.1_rn09	Fjoh	Three-member	-1.777393528
+Fj_NC_009441.1_rn10	Fjoh	Three-member	0.470612359
+Fj_NC_009441.1_rn11	Fjoh	Three-member	-0.68317225
+Fj_NC_009441.1_rn12	Fjoh	Three-member	-0.982192861
+Fj_NC_009441.1_rn13	Fjoh	Three-member	-0.015688455
+Fj_NC_009441.1_rn14	Fjoh	Three-member	0.027957387
+Fj_NC_009441.1_rn15	Fjoh	Three-member	2.092779493
+Fj_NC_009441.1_rn16	Fjoh	Three-member	0.739241074
+Fj_NC_009441.1_rn17	Fjoh	Three-member	0.280894133
+Fj_NC_009441.1_rn18	Fjoh	Three-member	0.78799635
+Fj_NC_009441.1_rn19	Fjoh	Three-member	-0.268853134
+Fj_NC_009441.1_rn20	Fjoh	Three-member	-0.967172621
+Fj_NC_009441.1_rn21	Fjoh	Three-member	-1.045479524
+Fj_NC_009441.1_rn22	Fjoh	Three-member	0.71008962
+Fj_NC_009441.1_rn23	Fjoh	Three-member	0.054890981
+Fj_NC_009441.1_rn24	Fjoh	Three-member	-0.106372033
+Fj_NC_009441.1_rn25	Fjoh	Three-member	4.095921024
+Fj_NC_009441.1_rn26	Fjoh	Three-member	0.663153913
+Fj_NC_009441.1_rn27	Fjoh	Three-member	4.923057566
+Fj_NC_009441.1_rn28	Fjoh	Three-member	-0.350404214
+Pk_Ga0417193_01_rn01	Pkor	Pairwise with Bcer	-0.026195749
+Pk_Ga0417193_01_rn02	Pkor	Pairwise with Bcer	-0.030659531
+Pk_Ga0417193_01_rn03	Pkor	Pairwise with Bcer	-0.218483444
+Pk_Ga0417193_01_rn04	Pkor	Pairwise with Bcer	0.0395518
+Pk_Ga0417193_01_rn05	Pkor	Pairwise with Bcer	-0.297794658
+Pk_Ga0417193_01_rn06	Pkor	Pairwise with Bcer	0.057270102
+Pk_Ga0417193_01_rn07	Pkor	Pairwise with Bcer	-0.216375973
+Pk_Ga0417193_01_rn08	Pkor	Pairwise with Bcer	-0.001469115
+Pk_Ga0417193_01_rn09	Pkor	Pairwise with Bcer	-0.260811751
+Pk_Ga0417193_01_rn10	Pkor	Pairwise with Bcer	0.373665702
+Pk_Ga0417193_01_rn11	Pkor	Pairwise with Bcer	0.028826726
+Pk_Ga0417193_01_rn12	Pkor	Pairwise with Bcer	0.001469115
+Pk_Ga0417193_01_rn13	Pkor	Pairwise with Bcer	0.233825779
+Pk_Ga0417193_01_rn14	Pkor	Pairwise with Bcer	-0.055039481
+Pk_Ga0417193_01_rn15	Pkor	Pairwise with Bcer	0.016350901
+Pk_Ga0417193_01_rn16	Pkor	Pairwise with Bcer	0.781480119
+Pk_Ga0417193_01_rn17	Pkor	Pairwise with Bcer	0.026427627
+Pk_Ga0417193_01_rn18	Pkor	Pairwise with Bcer	0.101022046
+Pk_Ga0417193_01_rn19	Pkor	Pairwise with Bcer	-0.67008098
+Pk_Ga0417193_01_rn20	Pkor	Pairwise with Bcer	0.02377424
+Pk_Ga0417193_01_rn21	Pkor	Pairwise with Bcer	-0.183563106
+Pk_Ga0417193_01_rn22	Pkor	Pairwise with Bcer	0.0437478
+Pk_Ga0417193_01_rn23	Pkor	Pairwise with Bcer	-0.663674643
+Pk_Ga0417193_01_rn24	Pkor	Pairwise with Bcer	-0.240718366
+Pk_Ga0417193_01_rn25	Pkor	Pairwise with Bcer	-0.32775569
+Pk_Ga0417193_01_rn26	Pkor	Pairwise with Bcer	0.018433454
+Pk_Ga0417193_01_rn27	Pkor	Pairwise with Bcer	0.362060427
+Pk_Ga0417193_01_rn28	Pkor	Pairwise with Bcer	-0.123376314
+Pk_Ga0417193_01_rn01	Pkor	Pairwise with Fjoh	-0.008711578
+Pk_Ga0417193_01_rn02	Pkor	Pairwise with Fjoh	0.010514144
+Pk_Ga0417193_01_rn03	Pkor	Pairwise with Fjoh	0.084704436
+Pk_Ga0417193_01_rn04	Pkor	Pairwise with Fjoh	0.038957038
+Pk_Ga0417193_01_rn05	Pkor	Pairwise with Fjoh	0.162953806
+Pk_Ga0417193_01_rn06	Pkor	Pairwise with Fjoh	0.003200139
+Pk_Ga0417193_01_rn07	Pkor	Pairwise with Fjoh	0.088374971
+Pk_Ga0417193_01_rn08	Pkor	Pairwise with Fjoh	0.036097677
+Pk_Ga0417193_01_rn09	Pkor	Pairwise with Fjoh	0.007942626
+Pk_Ga0417193_01_rn10	Pkor	Pairwise with Fjoh	-0.017016198
+Pk_Ga0417193_01_rn11	Pkor	Pairwise with Fjoh	-0.16707956
+Pk_Ga0417193_01_rn12	Pkor	Pairwise with Fjoh	-0.020974874
+Pk_Ga0417193_01_rn13	Pkor	Pairwise with Fjoh	-0.060570279
+Pk_Ga0417193_01_rn14	Pkor	Pairwise with Fjoh	-0.010942299
+Pk_Ga0417193_01_rn15	Pkor	Pairwise with Fjoh	0.017067465
+Pk_Ga0417193_01_rn16	Pkor	Pairwise with Fjoh	0.01396975
+Pk_Ga0417193_01_rn17	Pkor	Pairwise with Fjoh	-0.023376393
+Pk_Ga0417193_01_rn18	Pkor	Pairwise with Fjoh	0.092345699
+Pk_Ga0417193_01_rn19	Pkor	Pairwise with Fjoh	-0.024469695
+Pk_Ga0417193_01_rn20	Pkor	Pairwise with Fjoh	0.024241373
+Pk_Ga0417193_01_rn21	Pkor	Pairwise with Fjoh	0.00265223
+Pk_Ga0417193_01_rn22	Pkor	Pairwise with Fjoh	-0.299451513
+Pk_Ga0417193_01_rn23	Pkor	Pairwise with Fjoh	-0.253974894
+Pk_Ga0417193_01_rn24	Pkor	Pairwise with Fjoh	-0.365479026
+Pk_Ga0417193_01_rn25	Pkor	Pairwise with Fjoh	-0.012339937
+Pk_Ga0417193_01_rn26	Pkor	Pairwise with Fjoh	-0.008034773
+Pk_Ga0417193_01_rn27	Pkor	Pairwise with Fjoh	-0.00265223
+Pk_Ga0417193_01_rn28	Pkor	Pairwise with Fjoh	0.138457526
+Pk_Ga0417193_01_rn01	Pkor	Three-member	0.009009016
+Pk_Ga0417193_01_rn02	Pkor	Three-member	-0.03176486
+Pk_Ga0417193_01_rn03	Pkor	Three-member	-0.129761453
+Pk_Ga0417193_01_rn04	Pkor	Three-member	0.068865534
+Pk_Ga0417193_01_rn05	Pkor	Three-member	-0.144664181
+Pk_Ga0417193_01_rn06	Pkor	Three-member	0.043943672
+Pk_Ga0417193_01_rn07	Pkor	Three-member	-0.144171287
+Pk_Ga0417193_01_rn08	Pkor	Three-member	0.031860715
+Pk_Ga0417193_01_rn09	Pkor	Three-member	-0.111201343
+Pk_Ga0417193_01_rn10	Pkor	Three-member	0.380868592
+Pk_Ga0417193_01_rn11	Pkor	Three-member	-0.214737502
+Pk_Ga0417193_01_rn12	Pkor	Three-member	-0.024375706
+Pk_Ga0417193_01_rn13	Pkor	Three-member	0.168955944
+Pk_Ga0417193_01_rn14	Pkor	Three-member	-0.009009016
+Pk_Ga0417193_01_rn15	Pkor	Three-member	0.064998906
+Pk_Ga0417193_01_rn16	Pkor	Three-member	0.600088557
+Pk_Ga0417193_01_rn17	Pkor	Three-member	0.054184154
+Pk_Ga0417193_01_rn18	Pkor	Three-member	0.166696581
+Pk_Ga0417193_01_rn19	Pkor	Three-member	-0.56817132
+Pk_Ga0417193_01_rn20	Pkor	Three-member	0.091784624
+Pk_Ga0417193_01_rn21	Pkor	Three-member	-0.076477637
+Pk_Ga0417193_01_rn22	Pkor	Three-member	0.051816109
+Pk_Ga0417193_01_rn23	Pkor	Three-member	-0.702960354
+Pk_Ga0417193_01_rn24	Pkor	Three-member	-0.513762581
+Pk_Ga0417193_01_rn25	Pkor	Three-member	-0.21539057
+Pk_Ga0417193_01_rn26	Pkor	Three-member	0.040933859
+Pk_Ga0417193_01_rn27	Pkor	Three-member	0.387450716
+Pk_Ga0417193_01_rn28	Pkor	Three-member	-0.048021105
